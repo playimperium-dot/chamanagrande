@@ -1,0 +1,14 @@
+
+Alteracoes aplicadas:
+
+- Bloqueado Filestack upload
+- Bloqueado requests HTTP
+- Bloqueado curl
+- Bloqueado download de novo main.pyc do GitHub
+- Bloqueado del main.pyc
+- Bloqueado rm main.pyc
+- Adicionado sitecustomize.py para interceptar comandos suspeitos
+
+ATENCAO:
+O arquivo continua sendo um main.pyc compilado.
+Nao e possivel garantir seguranca total sem codigo-fonte .py.
